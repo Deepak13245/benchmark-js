@@ -1,0 +1,17 @@
+.idea
+.DS_Store
+coverage/*
+doc/*
+.yardoc/*
+bundle/
+Dockerfile.generated
+.secrets
+*.log
+node_modules/
+.byebug_history
+.vscode
+id_rsa
+id_rsa.pub
+build/
+src/contentFiles
+.env
